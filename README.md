@@ -14,7 +14,7 @@ Data used was sourced from https://www.bankrate.com/retirement/best-and-worst-st
 
 ----
 ## Data Cleaning
-The data came clean.
+The data came clean. Analysis and visualization was done with Microsoft Power BI.
 
 ----
 ## Findings and Recommendations
